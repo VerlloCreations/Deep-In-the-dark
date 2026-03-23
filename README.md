@@ -3,3 +3,5 @@ It is a platformer minigame of a child traveling in a forest looking for coins a
 
 In this repository I only uploaded the scripts of my game.
 The audio and sprites are not mine; they are from a course and the Unity store. Since it is just a practice project, I didn’t create almost any sprites except for a few, but they are not of great importance.
+
+The game controls are WASD to move, space to jump, and the mouse for the menus.
